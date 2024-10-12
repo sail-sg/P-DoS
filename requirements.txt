@@ -1,0 +1,10 @@
+torch==2.0.1
+datasets==2.12.0
+transformers==4.30.1
+sentencepiece==0.1.99
+protobuf==3.20.0
+accelerate==0.20.3
+shortuuid
+wandb
+lion-pytorch
+openai==0.27.8
