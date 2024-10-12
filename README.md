@@ -41,13 +41,13 @@ bash scripts/convert.sh
 Run the following command to launch P-DoS (CSF).
 
 ```shell
-bash scripts/dos_csf.sh
+bash scripts/pdos_csf.sh
 ```
 
 Run the following command to launch P-DoS (L_DoS).
 
 ```shell
-bash scripts/dos_loss.sh
+bash scripts/pdos_loss.sh
 ```
 
 Run the following command to evaluate DoS attacks for LLMs.
