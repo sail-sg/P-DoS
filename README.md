@@ -1,5 +1,8 @@
 # Denial-of-Service Poisoning Attacks on Large Language Models
 
+This repository provides the pytorch implementatin of our work: [Denial-of-Service Poisoning Attacks against Large Language Models
+](https://arxiv.org/abs/2410.10760).
+
 ## Installation
 
 This code is tested on our local environment (python=3.10.12, cuda=11.8), and we recommend you to use anaconda to create a vitural environment:
