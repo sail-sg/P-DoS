@@ -63,8 +63,9 @@ bash scripts/eval.sh
 
 ```
 @article{gao2024denial,
-  title={Denial-of-Service Poisoning Attacks on Large Language Models},
+  title={Denial-of-Service Poisoning Attacks against Large Language Models},
   author={Gao, Kuofeng and Pang, Tianyu and Du, Chao and Yang, Yong and Xia, Shu-Tao and Lin, Min},
+  journal={arXiv preprint arXiv:2410.10760},
   year={2024}
 }
 ```
